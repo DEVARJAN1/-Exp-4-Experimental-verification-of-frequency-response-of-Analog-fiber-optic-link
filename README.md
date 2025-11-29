@@ -38,11 +38,14 @@ To study an 660nm & 950nm Fiber Analog Link and to study the frequency response 
 -  Keep Jumpers JP6, JP9, JP10 shorted.
 -  Keep Jumper JP8 towards sine position.
 -  Keep Intensity control pot P2 towards minimum position.
+-  <img width="743" height="301" alt="image" src="https://github.com/user-attachments/assets/92523088-6219-4395-948d-dc777ceeb4aa" />
+
 -  Feed about 2Vpp sinusoidal signal of 1 KHz from the function generator to the IN post of Analog Buffer.
 -  Connect the output post OUT of Analog Buffer to the post TX IN of Transmitter.
 -  Slightly unscrew the cap of SFH756V (660nm). Do not remove the cap from the connector. Once the cap is loosened, insert the one meter fiber into the cap. Now tighten the cap by screwing it back.
 -  Connect the other end of the Fiber to detector SFH350V (Photo Transistor Detector) very carefully.
 -  Observe the detected signal at post ANALOG OUT on oscilloscope. Adjust Intensity control pot P2 Optical Power control potentiometer so that you receive signal of 2Vpp amplitude.
+-  <img width="685" height="292" alt="image" src="https://github.com/user-attachments/assets/16e6960b-1337-468c-a691-98eb02d0b5f8" />
 -  To measure the analog bandwidths of the phototransistor vary the input signal frequency and observe the detected signal at various frequencies.
 -  Plot the detected signal against applied signal frequency and from the plot determine the 3dB down frequency.
 -  Keep switch SW9 towards TX2 position.
@@ -50,9 +53,8 @@ To study an 660nm & 950nm Fiber Analog Link and to study the frequency response 
 -  Remove fiber cable from SFH756V (660nm) and slightly unscrew the cap of SFH450V (950nm). Do not remove the cap from the connector. Once the cap is loosened, insert the one meter fiber into the cap. Now tighten the cap by screwing it back.
 -  Observe the detected signal at post ANALOG OUT on oscilloscope.
 
-<img width="685" height="292" alt="image" src="https://github.com/user-attachments/assets/16e6960b-1337-468c-a691-98eb02d0b5f8" />
 
-<img width="743" height="301" alt="image" src="https://github.com/user-attachments/assets/92523088-6219-4395-948d-dc777ceeb4aa" />
+
 
 <img width="721" height="292" alt="image" src="https://github.com/user-attachments/assets/db37dde3-871b-4164-8e84-92c8cfd7c678" />
 
